@@ -1,0 +1,9 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            { "caption": "Close All Untouched Files", "command": "close_all_untouched_files" }
+        ]
+    }
+]
