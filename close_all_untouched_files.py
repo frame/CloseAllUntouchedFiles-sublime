@@ -1,7 +1,7 @@
 import sublime
 import sublime_plugin
 
-class CloseAllUntouchedFilesCommand(sublime_plugin.WindowCommand):
+class CloseAllUntouchedFilesCommand(sublime_plugin.ApplicationCommand):
 	def run(self):
 		for win in sublime.windows():
 			for view in win.views():
