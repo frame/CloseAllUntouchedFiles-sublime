@@ -1,6 +1,6 @@
 # Close All Untouched Files
 
-Closes all tabes with unchanges files.
+Closes all tabs with unchanges files.
 
 # Commands
 
