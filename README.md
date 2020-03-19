@@ -1,6 +1,8 @@
 # Close All Untouched Files
 
-Closes all tabs with unchanged files.
+Closes all tabs with unchanged files. Unsaved tabs will remain.
+
+Closing a large amount of tabs individually is quite difficult, because switching through tabs/view via hotkey doesn't follow an obvious order.
 
 # Commands
 
